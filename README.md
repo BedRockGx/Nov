@@ -2,8 +2,6 @@
 
 新冠病毒肺炎实时动态APP.
 
-本人刚开始学flutter，所以做个项目练练手，本项目的灵感来自于这位大佬，感谢！地址：https://github.com/fluttercandies/ncov_2019
-
 # 项目截图
 ![Image text](https://github.com/BenXi630/flutter_ncov/blob/master/github-img/WechatIMG1.jpeg)
 
